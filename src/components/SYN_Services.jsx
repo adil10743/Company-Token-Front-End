@@ -44,7 +44,7 @@ const SYN_Services = ({year}) => {
                     <h1 className="text-3xl text-black"> Vested Token</h1>
                 </div>
                 <div className="w-full flex justify-center items-center pb-10 animate-pulse -z-20">
-                    <p>To interact with the various function of the different Synpulse Token contracts, please use the buttons below.</p>
+                    <p>To interact with the various function of the different Company Token contracts, please use the buttons below.</p>
                 </div>
                 <div className="divide-y">
                     <div className="w-full flex justify-center items-center space-x-10 pb-5">

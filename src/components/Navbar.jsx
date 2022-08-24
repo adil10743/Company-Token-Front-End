@@ -1,4 +1,4 @@
-import logo from '../../images/Synpulse_LogoWithSpace_CMYK_(Vectors)_freigestellt ohne claim.png'
+import logo from '../../images/logo.png'
 import { Icon } from 'semantic-ui-react'
 import 'semantic-ui-css/semantic.min.css'
 import { ContractNav, ConnectButton, EthereumCard } from "../components"
@@ -19,8 +19,8 @@ const Navbar = () => {
             <div className="relative w-full flex space-x-2 justify-center items-center">
                 <div className="flex-none flex justify-center items-center font-semibold">
                     <div className="flex pr-5">
-                        <a href="https://www.synpulse.com/" target="_blank">
-                            <img src={logo} alt="synpulse logo" className="w-52"/>
+                        <a href="" target="_blank">
+                            <img src={logo} alt="company logo" className="w-52"/>
                         </a>
                     </div>
                     <ul className="invisible md:visible flex justify-center text-white text-xl flex-row list-none">
@@ -34,12 +34,12 @@ const Navbar = () => {
                             </div>
                         </span>
                         <span className="flex justify-center min-w-[100px] hover:bg-emerald-500 pl-5 pr-5 pb-10 pt-10">
-                            <a href="https://spextranet.sharepoint.com/sites/SynpulseToken" target="_blank" className="hover:text-white">
+                            <a href="" target="_blank" className="hover:text-white">
                                 <span>Sharepoint</span>
                             </a>
                         </span>
                         <span className="flex justify-center min-w-[100px] hover:bg-orange-600 pl-5 pr-5 pb-10 pt-10">
-                            <a href="https://spextranet.sharepoint.com/sites/SynpulseToken/SitePages/Tokenomics.aspx" target="_blank" className="hover:text-white">
+                            <a href="" target="_blank" className="hover:text-white">
                                 <span>About</span>  
                             </a> 
                         </span>

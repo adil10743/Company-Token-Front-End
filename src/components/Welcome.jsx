@@ -1,6 +1,5 @@
-import TokenLogo from '../../images/synpulseTokenLogo.png'
+import TokenLogo from '../../images/logo.png'
 import React, { useContext } from 'react';
-import { ContractContext } from '../context/ContractContext';
 import { Link } from "react-router-dom";
 
 const Welcome = () => {

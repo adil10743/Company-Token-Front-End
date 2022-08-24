@@ -33,7 +33,7 @@ const Services = ({year}) => {
                     <h1 className="text-3xl text-black"> Unvested Token {year} </h1>
                 </div>
                 <div className="w-full flex justify-center items-center animate-pulse pb-10">
-                    <p>To interact with the various function of the different Synpulse Token contracts, please use the buttons below.</p>
+                    <p>To interact with the various function of the different Company Token contracts, please use the buttons below.</p>
                 </div>
                 <div className="divide-y">
                     <div className="w-full flex justify-center items-center space-x-20 pb-5">

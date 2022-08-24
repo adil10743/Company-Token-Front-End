@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'synpulse-background': "url('/images/synpulse-background.jpeg')"
+        'company-background': "url('/images/company-background.jpeg')"
       }
     },
   },
